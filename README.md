@@ -1,1 +1,1 @@
-# I have made project on bayes classiffier and regression.
+# A project on bayes classiffier and regression.
